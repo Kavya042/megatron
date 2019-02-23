@@ -1,0 +1,1 @@
+avrdude -c usbasp -p atmega16 -U flash:w:$(ProjectDir)\Debug\$(TargetName).hex:i

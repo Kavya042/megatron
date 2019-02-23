@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Relay+ADC", "Relay+ADC\Relay+ADC.cproj", "{47339C97-022F-49E8-B48A-F7FC1223595A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47339C97-022F-49E8-B48A-F7FC1223595A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{47339C97-022F-49E8-B48A-F7FC1223595A}.Debug|AVR.Build.0 = Debug|AVR
+		{47339C97-022F-49E8-B48A-F7FC1223595A}.Release|AVR.ActiveCfg = Release|AVR
+		{47339C97-022F-49E8-B48A-F7FC1223595A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
